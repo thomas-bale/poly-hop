@@ -1,5 +1,5 @@
 [![Deploy Status](https://img.shields.io/badge/Deployed%20on-Vercel-00C7B7?style=for-the-badge&logo=vercel)](https://poly-hop.thomasbale.com)
-[![Issues](https://img.shields.io/badge/Issues-VibeOps-FF6B6B?style=for-the-badge)](https://github.com/TumCucTom/poly-hop/issues)
+[![Issues](https://img.shields.io/badge/Issues-VibeOps-FF6B6B?style=for-the-badge)](https://github.com/thomas-bale/poly-hop/issues)
 
 ![Pixel Editor](docs/boing.jpg)
 
@@ -82,7 +82,7 @@ See the **POLYGON** amoy testnet contract [here](https://amoy.polygonscan.com/ad
 
 ```bash
 # 1. Clone
-$ git clone https://github.com/TumCucTom/poly-hop.git && cd poly-hop
+$ git clone https://github.com/thomas-bale/poly-hop.git && cd poly-hop
 
 # 2. Install deps
 $ npm install
@@ -136,7 +136,7 @@ Update `public/js/mint.js` if you redeploy.
 
 ## 🐛 Issue Tracking & VibeOps
 
-Issues and feature requests live in the [GitHub Issues](https://github.com/TumCucTom/poly-hop/issues) tab and are surfaced through VibeOps for prioritisation.
+Issues and feature requests live in the [GitHub Issues](https://github.com/thomas-bale/poly-hop/issues) tab and are surfaced through VibeOps for prioritisation.
 
 ---
 
